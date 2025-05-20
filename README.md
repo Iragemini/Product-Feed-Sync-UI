@@ -40,7 +40,7 @@ npm install
 
 Create a `.env` file and set the backend URL
 ```bash
-VITE_API_URL=http://localhost:<server_port>" >
+VITE_API_URL=http://localhost:<server_port>
 ```
 
 Start the frontend
