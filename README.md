@@ -38,7 +38,7 @@ cd Product-Feed-Sync-UI
 npm install
 ```
 
-Create a `.env` file and set the backend URL
+Create a `.env` file based on `.env.example`, and set the backend URL
 ```bash
 VITE_API_URL=http://localhost:<server_port>
 ```
